@@ -19,7 +19,7 @@ class ViewController: UIViewController
     override func viewDidLoad()
     {
         super.viewDidLoad()
-        let lastTest = "9"
+        let myBool = false
     }
 
     
