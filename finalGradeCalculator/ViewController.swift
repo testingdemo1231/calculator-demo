@@ -19,7 +19,7 @@ class ViewController: UIViewController
     override func viewDidLoad()
     {
         super.viewDidLoad()
-        let myName = "Salvador"
+        let myName = "Jocelyn"
     }
 
     
