@@ -19,7 +19,7 @@ class ViewController: UIViewController
     override func viewDidLoad()
     {
         super.viewDidLoad()
-        let myInt = 9
+        let myArray = [2,3,4]
     }
 
     
